@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+#Bookshop-ts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+##Rebuild of my bookshop project with typescript using create-react-app
 
 In the project directory, you can run:
 
