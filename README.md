@@ -1,6 +1,6 @@
-#Bookshop-ts
+# Bookshop-ts
 
-##Rebuild of my bookshop project with typescript using create-react-app
+## Rebuild of my bookshop project with typescript using create-react-app
 
 In the project directory, you can run:
 
